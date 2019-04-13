@@ -3,3 +3,4 @@ numpy
 matplotlib
 pandas
 sphinxcontrib-bibtex
+sphinx_sizzle_theme
